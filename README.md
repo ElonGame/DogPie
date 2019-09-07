@@ -7,3 +7,7 @@ mouse3 for switch editor pie,
 mouse4 for another switch pie,
 
 L + left mouse for a quick light
+
+------------------------------------------------------------------------------
+Install method:
+unzip and put the folder into blender's addon folder

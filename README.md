@@ -11,3 +11,6 @@ L + left mouse for a quick light
 ------------------------------------------------------------------------------
 Install method:
 unzip and put the folder into blender's addon folder
+
+Video Demo:
+https://www.bilibili.com/video/av66842247
